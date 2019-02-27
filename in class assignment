@@ -1,0 +1,64 @@
+<html>
+<div id="margins">
+<head>
+<title> Hello world</title>
+<style>
+#pic {padding-bottom: 30px;
+  padding-left: 100px;}
+#part1 {
+  text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(192,192,192);
+    padding-top: 30 px;  
+}
+#resume{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+h1{
+  font-family:"sans-serif",sans-serif;
+color:blue}
+
+#secondary{
+  font-family:sans-serif;
+  font-size: 20px ;
+}
+#entry{font-family:"Arial",sans-serif;}
+
+h2{color: Black}
+</style>
+</head>
+Laura Jones
+<p>
+Brooklyn <br>
+
+<a href="mailtp:ljones@brooklyn.nyc">ljones@brooklyn.nyc</a> 
+</p>
+
+<br>Amazon</br>  
+Network Engineer <br>
+2014 - Present
+</p>
+<p>
+- ljk;sfd jsad;flkj;l fkjasd;l fkajf; lakjfa <br>
+- sdaf lksadjf ;lksadj f;lsakd fjsa;ldfk jsad<br>
+- sdafl kjsad;lf ksjadf;l ksadjf;lsakdj fas;ldk fjsa
+</p>
+Walmart <br>
+Salesforce Engineer <br>
+June 2013 - Sept 2013 
+</p>
+- LK:LKDFJ :LKDJ :LDKFJ :L KJ F:DLK JF:LKF J<br>
+- s ldkjf;dlsak j;alkf ja;lfk ja;lf kja <br>
+- sdlkf asd;lkf jdsa;lfk jsa;lka sdj;ldsakf jdsa<br>
+
+</ul>
+
+<p>
+Howard University <br>
+Computer Science, BS/MS <br>
+2005-2012
+</p>
+
+</body></div>
+</html>
